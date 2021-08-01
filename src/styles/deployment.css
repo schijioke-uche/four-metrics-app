@@ -1,0 +1,19 @@
+.background {
+    background-color: #eeeeee
+}
+
+ul {
+    list-style-type: none;
+  }
+
+.frequency-title {
+    padding-left: 31px;
+}
+
+.frequency-list {
+    margin-top: 10px;
+}
+
+input {
+    margin-bottom: 10px;
+}
